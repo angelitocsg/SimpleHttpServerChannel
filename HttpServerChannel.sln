@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppServer", "AppServer\AppServer.csproj", "{17876825-98DF-4413-AAF8-7F0255256B32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppClient", "AppClient\AppClient.csproj", "{3490D832-3C00-4518-A753-442493A9AE76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlData", "XmlData\XmlData.csproj", "{E6494E5F-8E12-43DB-88F2-09734D069223}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17876825-98DF-4413-AAF8-7F0255256B32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17876825-98DF-4413-AAF8-7F0255256B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17876825-98DF-4413-AAF8-7F0255256B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17876825-98DF-4413-AAF8-7F0255256B32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3490D832-3C00-4518-A753-442493A9AE76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3490D832-3C00-4518-A753-442493A9AE76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3490D832-3C00-4518-A753-442493A9AE76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3490D832-3C00-4518-A753-442493A9AE76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6494E5F-8E12-43DB-88F2-09734D069223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6494E5F-8E12-43DB-88F2-09734D069223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6494E5F-8E12-43DB-88F2-09734D069223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6494E5F-8E12-43DB-88F2-09734D069223}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6DE95B8-3924-4771-B02F-8233E2FCB714}
+	EndGlobalSection
+EndGlobal
